@@ -4,7 +4,7 @@ Computational Social Science is a fast growing field 🚀 that brings multiple d
 
 But it needs the help of the CSS community 🫂: Please open pull requests for any summer and winter schools you come across! Thank you very much for your support ❤️
 
-2021 Summer and Winter Schools
+**2021 Summer and Winter Schools**
 | Name and Link  | Location  | Organizer  | Dates  | Deadline | Fee | 
 |---|---|---|---|---|---|
 |   |   |   |   |   |   |
@@ -13,7 +13,7 @@ But it needs the help of the CSS community 🫂: Please open pull requests for a
 
 
 
-2022 Summer and Winter Schools
+**2022 Summer and Winter Schools**
 | Name and Link  | Location  | Organizer  | Dates  | Deadline | Fee | 
 |---|---|---|---|---|---|
 |   |   |   |   |   |   |
