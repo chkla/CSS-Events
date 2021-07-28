@@ -7,7 +7,7 @@ But it needs the help of the CSS community 🫂: Please send me a message (📧 
 **2021 Summer and Winter Schools**
 | Name and Link  | Location  | Organizer  | Dates  | Deadline | Fee | 
 |---|---|---|---|---|---|
-|   |   |   |   |   |   |
+| [10th Summer School in Survey Methodology](https://www.gesis.org/en/gesis-training/what-we-offer/summer-school-in-survey-methodology) | online | GESIS | 28.07 - 20.08.2021  | August  |  Course: Students: 160 €,  Academics: 240 € |
 |   |   |   |   |   |   |
 
 
