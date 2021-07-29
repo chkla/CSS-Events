@@ -21,3 +21,6 @@ But it needs the help of the CSS community 🫂: Please send me a message (📧 
 | ...  | ...  | ...  | ...  | ...  | ...  |
 
 ## Related Conferences
+2021
+* [11th Annual Conference on New Directions in Analyzing Text as Data](https://tada2021.org) (Abstract deadline: August 20)
+* ..
