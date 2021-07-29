@@ -4,7 +4,7 @@ Computational Social Science is a fast growing field 🚀 that brings multiple d
 
 But it needs the help of the CSS community 🫂: Please send me a message (📧 [mail](christopher.klamm@hotmail.de) or 🐥 [twitter](https://twitter.com/chklamm)) or open pull requests ⬆️ for any summer and winter schools you come across! Thank you very much for your support ❤️
 
-**2021 Summer and Winter Schools**
+## **2021 Summer and Winter Schools**
 | Name and Link  | Location  | Organizer  | Dates  | Deadline | Fee | 
 |---|---|---|---|---|---|
 | [ESSA-BEHAVE Online Summer School 2021 on “Agent-Based Modelling for Social Scientists”](http://behavelab.org/behave-summer-school/) | online | University of Brescia & University of Milan | 30 August-10 September 2021 | 30 June | YES, e.g., Student: 400€-800 |
@@ -14,8 +14,10 @@ But it needs the help of the CSS community 🫂: Please send me a message (📧 
 | [The Summer Institutes in Computational Social Science](https://sicss.io) | online | 🌍 | June & July | N/A | Free |
 
 
-**2022 Summer and Winter Schools**
+## **2022 Summer and Winter Schools**
 | Name and Link  | Location  | Organizer  | Dates  | Deadline | Fee | 
 |---|---|---|---|---|---|
 | [BIGSSS-CSS Summer School on Social Cohesion](https://bigsss-css.jacobs-university.de) | Groningen | University of Groningen | July 4-15 | N/A | N/A |
 | ...  | ...  | ...  | ...  | ...  | ...  |
+
+## Related Conferences
