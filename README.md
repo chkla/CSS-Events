@@ -12,7 +12,6 @@ But it needs the help of the CSS community 🫂: Please send me a message (📧 
 | [DATA SCIENCE SUMMER SCHOOL](https://socialdatascience.network/summerschool.html) | online | Hertie School Data Science Lab | July 9-30  | July  | Free  |
 | [Essex Summer School in Social Science Data Analysis](https://essexsummerschool.com/summer-school-facts/) | online | Esses Summer Schhol | 11-23 July | N/A | £100 |
 | [The Summer Institutes in Computational Social Science](https://sicss.io) | online | 🌍 | June & July | N/A | Free |
-| ...  | ...  | ...  | ...  | ...  | ...  |
 
 
 **2022 Summer and Winter Schools**
