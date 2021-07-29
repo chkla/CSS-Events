@@ -10,7 +10,7 @@ But it needs the help of the CSS community 🫂: Please send me a message (📧 
 | [ESSA-BEHAVE Online Summer School 2021 on “Agent-Based Modelling for Social Scientists”](http://behavelab.org/behave-summer-school/) | online | University of Brescia & University of Milan | 30 August-10 September 2021 | 30 June | YES, e.g., Student: 400€-800 |
 | [10th Summer School in Survey Methodology](https://www.gesis.org/en/gesis-training/what-we-offer/summer-school-in-survey-methodology) | online | GESIS | 28.07 - 20.08.2021  | August  |  Course: Students: 160 €,  Academics: 240 € |
 | [DATA SCIENCE SUMMER SCHOOL](https://socialdatascience.network/summerschool.html) | online | Hertie School Data Science Lab | July 9-30  | July  | Free  |
-| [Essex Summer School in Social Science Data Analysis](https://essexsummerschool.com/summer-school-facts/) | online | Esses Summer Schhol | 11-23 July | N/A | £100 |
+| [Essex Summer School in Social Science Data Analysis](https://essexsummerschool.com/summer-school-facts/) | online | Essex Summer Schhol | 11-23 July | N/A | £100 |
 | [The Summer Institutes in Computational Social Science](https://sicss.io) | online | 🌍 | June & July | N/A | Free |
 
 
