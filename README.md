@@ -24,6 +24,6 @@ But it needs the help of the CSS community 🫂: Please send me a message (📧 
 2021
 | Name and Link  | Location  | Organizer | Dates | Abstract Deadline | Fee | 
 |---|---|---|---|---|---|
-| [11th Annual Conference on New Directions in Analyzing Text as Data](https://tada2021.org) | online | | | August 20 | |
-| [Fourth annual Politics and Computational Social Science (PaCSS)](https://cssh.northeastern.edu/nulab/pacss/) | online | | | | 20$|
+| [11th Annual Conference on New Directions in Analyzing Text as Data](https://tada2021.org) | hybrid | University of Michigan | October 28-29 | August 20 | N/A |
+| [Fourth annual Politics and Computational Social Science (PaCSS)](https://cssh.northeastern.edu/nulab/pacss/) | online | Northeastern University | August 9 – 13 | N/A | 20$|
 | ...  | ...  | ...  | ...  | ...  | ...  |
