@@ -22,11 +22,14 @@ But it needs the help of the CSS community 🫂: Please send me a message (📧 
 
 ## Related Conferences
 ### 2021
-| Name and Link  | Location  | Organizer | Dates | Abstract Deadline | Fee | 
+| Name and Link  | Location  | Organizer | Dates | Abstract/ Paper Deadline | Fee | 
 |---|---|---|---|---|---|
 | [11th Annual Conference on New Directions in Analyzing Text as Data](https://tada2021.org) | hybrid | University of Michigan | October 28-29 | August 20 | N/A |
 | [Fourth annual Politics and Computational Social Science (PaCSS)](https://cssh.northeastern.edu/nulab/pacss/) | online | Northeastern University | August 9 – 13 | N/A | 20$|
 | ...  | ...  | ...  | ...  | ...  | ...  |
+
+### 2022
+| [4th Annual COMPTEXT Conference 2022](https://www.comptextconference.org/4th-annual-poltext-conference-2021/) | Dublin  | James Cross  | May  | Fall | N/A |
 
 ## Additional Ressources
 * "Computational Sociolinguistics" (David Jurgens): https://docs.google.com/document/u/0/d/1Ouyqz-emtOI-ohwTOdOZpcjcEFtPPilhJDso8sjgByU/mobilebasic
