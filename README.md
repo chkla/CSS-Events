@@ -29,6 +29,7 @@ But it needs the help of the CSS community 🫂: Please send me a message (📧 
 | ...  | ...  | ...  | ...  | ...  | ...  |
 
 ### 2022
+| Name and Link  | Location  | Organizer | Dates | Abstract/ Paper Deadline | Fee | 
 | [4th Annual COMPTEXT Conference 2022](https://www.comptextconference.org/4th-annual-poltext-conference-2021/) | Dublin  | James Cross  | May  | Fall | N/A |
 
 ## Additional Ressources
