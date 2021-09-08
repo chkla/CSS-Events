@@ -26,7 +26,7 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 | [11th Annual Conference on New Directions in Analyzing Text as Data](https://tada2021.org) | hybrid | University of Michigan | October 28-29 | August 20 | N/A |
 | [Fourth annual Politics and Computational Social Science (PaCSS)](https://cssh.northeastern.edu/nulab/pacss/) | online | Northeastern University | August 9 – 13 | N/A | 20$|
 | [7th International Conference on Computational Social Science](https://ic2s2-2021.ethz.ch) | online | ETH | 27-31 July | N/A | Student: 50€, Regular: 100€  |
-| [2nd Monash-Warwick-Zurich Text-as-Data Workshop](https://docs.google.com/spreadsheets/d/1qFSUcYKawa-P7SpVmuutMaO9QVvrJvgYIvH28Sz-mUI/edit#gid=0) | online | Monash University, The University of Warwick, & ETH | 30-31 August | N/A | Student: 50€, Regular: 100€  |
+| [2nd Monash-Warwick-Zurich Text-as-Data Workshop](https://docs.google.com/spreadsheets/d/1qFSUcYKawa-P7SpVmuutMaO9QVvrJvgYIvH28Sz-mUI/edit#gid=0) | online | Monash University, The University of Warwick, & ETH | 30-31 August | N/A | Free |
 
 ## **2022 Conferences**
 | Name and Link  | Location  | Organizer | Dates | Abstract/ Paper Deadline | Fee |
