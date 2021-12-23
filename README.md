@@ -32,8 +32,8 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 | Name and Link  | Location  | Organizer | Dates | Abstract/ Paper Deadline | Fee |
 |---|---|---|---|---|---|
 | [4th Annual COMPTEXT Conference 2022](https://www.comptextconference.org/4th-annual-poltext-conference-2021/) | Dublin  | James Cross  | May  | Fall | N/A |
-| [LREC 2022 Workshop on Natural Language Processing for Political sciences (PoliticalNLP)](https://lrec2022.lrec-conf.org/en/workshops-and-tutorials/ws-tut-schedule/) | Marseille | N/A | 24.6.2022 | 8.4.2022 | N/A |
-| [LREC 2022 ParlaCLARIN III Workshop on Creating, Enriching and Using Parliamentary Corpora](https://lrec2022.lrec-conf.org/media/filer_public/96/ac/96acb3a3-7758-49da-b5c6-2880c54e6162/cfp-parlaclarin-iii.pdf) | Marseille | N/A | 20.6.2022 | 8.4.2022 | N/A |
+| [LREC 2022 Workshop on Natural Language Processing for Political sciences (PoliticalNLP) @ LREC 2022](https://lrec2022.lrec-conf.org/en/workshops-and-tutorials/ws-tut-schedule/) | Marseille | N/A | 24.6.2022 | 8.4.2022 | N/A |
+| [ParlaCLARIN III Workshop on Creating, Enriching and Using Parliamentary Corpora @ LREC 2022](https://lrec2022.lrec-conf.org/media/filer_public/96/ac/96acb3a3-7758-49da-b5c6-2880c54e6162/cfp-parlaclarin-iii.pdf) | Marseille | N/A | 20.6.2022 | 8.4.2022 | N/A |
 
 ## **2021 Method Workshops**
 | Name and Link  | Location  | Organizer  | Dates  | Deadline | Fee | 
