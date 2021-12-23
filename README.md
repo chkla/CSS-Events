@@ -14,12 +14,6 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 | [The Summer Institutes in Computational Social Science](https://sicss.io) | online | 🌍 | June & July | N/A | Free |
 | [CIVICA DATA SCIENCE SEMINAR SERIES](https://socialdatascience.network/index.html#intro) | online | Hertie School, LSE, CEU, Bocconi University, SciencesPro, EUI | February to October 2021 | N/A | Free |
 
-## **2022 Summer and Winter Schools**
-| Name and Link  | Location  | Organizer  | Dates  | Deadline | Fee | 
-|---|---|---|---|---|---|
-| [BIGSSS-CSS Summer School on Social Cohesion](https://bigsss-css.jacobs-university.de) | Groningen | University of Groningen | July 4-15 | N/A | N/A |
-| ...  | ...  | ...  | ...  | ...  | ...  |
-
 ## **2021 Conferences**
 | Name and Link  | Location  | Organizer | Dates | Abstract/ Paper Deadline | Fee | 
 |---|---|---|---|---|---|
@@ -28,6 +22,17 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 | [7th International Conference on Computational Social Science](https://ic2s2-2021.ethz.ch) | online | ETH | 27-31 July | N/A | Student: 50€, Regular: 100€  |
 | [2nd Monash-Warwick-Zurich Text-as-Data Workshop](https://docs.google.com/spreadsheets/d/1qFSUcYKawa-P7SpVmuutMaO9QVvrJvgYIvH28Sz-mUI/edit#gid=0) | online | Monash University, The University of Warwick, & ETH | 30-31 August | N/A | Free |
 
+## **2021 Method Workshops**
+| Name and Link  | Location  | Organizer  | Dates  | Deadline | Fee | 
+|---|---|---|---|---|---|
+| [Workshop on Automated Image Analysis](https://www.cssmethods.uzh.ch/en/cfp_imageanalysis.html) | online | University of Zurich & ETH | 5 November 2021 | NA | Free |
+
+## **2022 Summer and Winter Schools**
+| Name and Link  | Location  | Organizer  | Dates  | Deadline | Fee | 
+|---|---|---|---|---|---|
+| [BIGSSS-CSS Summer School on Social Cohesion](https://bigsss-css.jacobs-university.de) | Groningen | University of Groningen | July 4-15 | N/A | N/A |
+| ...  | ...  | ...  | ...  | ...  | ...  |
+
 ## **2022 Conferences**
 | Name and Link  | Location  | Organizer | Dates | Abstract/ Paper Deadline | Fee |
 |---|---|---|---|---|---|
@@ -35,11 +40,6 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 | [LREC 2022 Workshop on Natural Language Processing for Political sciences (PoliticalNLP) @ LREC 2022](https://lrec2022.lrec-conf.org/en/workshops-and-tutorials/ws-tut-schedule/) | Marseille | N/A | 24.6.2022 | 8.4.2022 | N/A |
 | [ParlaCLARIN III Workshop on Creating, Enriching and Using Parliamentary Corpora @ LREC 2022](https://lrec2022.lrec-conf.org/media/filer_public/96/ac/96acb3a3-7758-49da-b5c6-2880c54e6162/cfp-parlaclarin-iii.pdf) | Marseille | N/A | 20.6.2022 | 8.4.2022 | N/A |
 | [8th International Conference on Computational Social Science](https://boothuchicagocaai.wixsite.com/website-2) | Chicago, IL | Harper Center of the Booth School of Business at the University of Chicago | July 19-22 | February 25 | N/A |
-
-## **2021 Method Workshops**
-| Name and Link  | Location  | Organizer  | Dates  | Deadline | Fee | 
-|---|---|---|---|---|---|
-| [Workshop on Automated Image Analysis](https://www.cssmethods.uzh.ch/en/cfp_imageanalysis.html) | online | University of Zurich & ETH | 5 November 2021 | NA | Free |
 
 ## **Additional Ressources**
 * "Computational Sociolinguistics" (David Jurgens): https://docs.google.com/document/u/0/d/1Ouyqz-emtOI-ohwTOdOZpcjcEFtPPilhJDso8sjgByU/mobilebasic
