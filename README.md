@@ -32,6 +32,7 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 | Name and Link  | Location  | Organizer | Dates | Abstract/ Paper Deadline | Fee |
 |---|---|---|---|---|---|
 | [4th Annual COMPTEXT Conference 2022](https://www.comptextconference.org/4th-annual-poltext-conference-2021/) | Dublin  | James Cross  | May  | Fall | N/A |
+| [LREC 2020 Workshop on Natural Language Processing for Political sciences (PoliticalNLP)](https://lrec2022.lrec-conf.org/en/workshops-and-tutorials/ws-tut-schedule/)| Marseille | N/A | 24.6.2022 | 8.4.2022 | N/A |
 
 ## **2021 Method Workshops**
 | Name and Link  | Location  | Organizer  | Dates  | Deadline | Fee | 
