@@ -1,6 +1,6 @@
 # List of ☀️ Summer and ☃️ Winter Schools in Computational Social Science
 
-Computational Social Science is a fast growing field 🚀 that brings multiple disciplines together. Summer and winter schools are a great place to find like-minded people, exchange ideas, learning new things from experts and have a great time togehter (and make new friends). This community-driven repository attempts to list all upcomming events so that everyone has the chance to attend.
+Computational Social Science is a fast growing field 🚀 that brings multiple disciplines together. Summer and winter schools are a great place to find like-minded people, exchange ideas, learning new things from experts and have a great time together (and make new friends). This community-driven repository attempts to list all upcomming events so that everyone has the chance to attend.
 
 But it needs the help of the CSS community: Please send me a message (📧 [mail](mailto:christopher.klamm@hotmail.de) or 🐥 [twitter](https://twitter.com/chklamm)) or open pull requests ⬆️ for any summer and winter schools you come across! Thank you very much for your support ❤️
 
@@ -30,6 +30,7 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 ## **2022 Summer and Winter Schools**
 | Name and Link  | Location  | Organizer  | Dates  | Deadline | Fee | 
 |---|---|---|---|---|---|
+| [2nd Virtual GESIS Spring Seminar on "Simulation Techniques in the Social Sciences"](https://www.gesis.org/en/gesis-training/what-we-offer/spring-seminar-cutting-edge-methods) | Online | GESIS | March 7-25 | N/A | 500 EUR for enrolled students per one-week course |
 | [BIGSSS-CSS Summer School on Social Cohesion](https://bigsss-css.jacobs-university.de) | Groningen | University of Groningen | July 4-15 | N/A | N/A |
 | ...  | ...  | ...  | ...  | ...  | ...  |
 
@@ -43,3 +44,4 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 
 ## **Additional Ressources**
 * "Computational Sociolinguistics" (David Jurgens): https://docs.google.com/document/u/0/d/1Ouyqz-emtOI-ohwTOdOZpcjcEFtPPilhJDso8sjgByU/mobilebasic
+*  "APIs for social scientists: A collaborative review" (Paul C. Bauer, Jan Behnert, Lion Behrens, Chung-hong Chan, Lukas Isermann, Philipp Kadel, Melike N. Kaplan, Jana Klein, Barbara K. Kreis, Dean Lajic, Camille Landesvatter, Madleen Meier-Barthold, Ondrej Pekacek, Pirmin Stöckle, Malte Söhren): https://bookdown.org/paul/apis_for_social_scientists/
