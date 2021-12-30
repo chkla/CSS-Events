@@ -41,6 +41,7 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 | [LREC 2022 Workshop on Natural Language Processing for Political sciences (PoliticalNLP) @ LREC 2022](https://lrec2022.lrec-conf.org/en/workshops-and-tutorials/ws-tut-schedule/) | Marseille | N/A | 24.6.2022 | 8.4.2022 | N/A |
 | [ParlaCLARIN III Workshop on Creating, Enriching and Using Parliamentary Corpora @ LREC 2022](https://lrec2022.lrec-conf.org/media/filer_public/96/ac/96acb3a3-7758-49da-b5c6-2880c54e6162/cfp-parlaclarin-iii.pdf) | Marseille | N/A | 20.6.2022 | 8.4.2022 | N/A |
 | [8th International Conference on Computational Social Science](https://boothuchicagocaai.wixsite.com/website-2) | Chicago, IL | Harper Center of the Booth School of Business at the University of Chicago | July 19-22 | February 25 | N/A |
+| [3rd MWZ Text-as-Data Workshop](https://emea01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.gle%2FenzSyxGx5ksZApFG9&data=04%7C01%7C%7C8caff9b89f7742bedeec08d9cb08d6c5%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637764061079451902%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=d9V3SdaH9yeNEyUXflPZBn6585ZCnd3%2BfvS2bAbnXb0%3D&reserved=0) | online | ETH Zurich and Warwick CAGE | February 17th-18th | January 16th | N/A |
 
 ## **Additional Ressources**
 * "Computational Sociolinguistics" (David Jurgens): https://docs.google.com/document/u/0/d/1Ouyqz-emtOI-ohwTOdOZpcjcEFtPPilhJDso8sjgByU/mobilebasic
