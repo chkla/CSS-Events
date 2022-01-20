@@ -1,4 +1,4 @@
-# List of ☀️ Summer and ☃️ Winter Schools in Computational Social Science
+# List of Summer/ Winter Schools, Workshops and Conferences in Computational Social Science
 
 Computational Social Science is a fast growing field 🚀 that brings multiple disciplines together. Summer and winter schools are a great place to find like-minded people, exchange ideas, learning new things from experts and have a great time together (and make new friends). This community-driven repository attempts to list all upcomming events so that everyone has the chance to attend.
 
