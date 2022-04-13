@@ -16,7 +16,7 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 | [Politis and Computational Social Science](https://docs.google.com/forms/d/e/1FAIpQLSfq2Zw6kS1SVCDl7tvWyeZXf65vUtWZcZITixXO4f330VNn1g/viewform) | hybrid/ Cambridge, Massachusetts (US) | co-chaired by David Lazer and Sarah Shugars, with support from Stefan McCabe, Burak Ozturan, Alexi Quintana, Alyssa Smith, Ata Uslu, and Allison Wan | June 16-18, 2022 | April 29, 2022 |
 
 ## **2022 Summer/ Winter Schools and Tutorials**
-| Name and Link  | Location  | Organizer  | Dates  | Deadline | Fee | 
+| Name and Link  | Location  | Organizer  | Dates  | Deadline |
 |---|---|---|---|---|
 | [2nd Virtual GESIS Spring Seminar on "Simulation Techniques in the Social Sciences"](https://www.gesis.org/en/gesis-training/what-we-offer/spring-seminar-cutting-edge-methods) | Online | GESIS | March 7-25 | N/A |
 | [BIGSSS-CSS Summer School on Social Cohesion](https://bigsss-css.jacobs-university.de) | Groningen | University of Groningen | July 4-15 | March 27, 2022 |
