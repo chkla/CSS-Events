@@ -5,22 +5,22 @@ Computational Social Science is a fast growing field 🚀 that brings multiple d
 But it needs the help of the CSS community: Please send me a message (📧 [mail](mailto:christopher.klamm@hotmail.de) or 🐥 [twitter](https://twitter.com/chklamm)) or open pull requests ⬆️ for any summer and winter schools you come across! Thank you very much for your support ❤️
 
 ## **2022 Conferences and Workshops**
-| Name and Link  | Location  | Organizer | Dates | Abstract/ Paper Deadline | Fee |
+| Name and Link  | Location  | Organizer | Dates | Deadline |
 |---|---|---|---|---|---|
-| [4th Annual COMPTEXT Conference 2022](https://www.comptextconference.org/4th-annual-poltext-conference-2021/) | Dublin  | James Cross  | May  | Fall | N/A |
-| [LREC 2022 Workshop on Natural Language Processing for Political sciences (PoliticalNLP) @ LREC 2022](https://lrec2022.lrec-conf.org/en/workshops-and-tutorials/ws-tut-schedule/) | Marseille | Haithem Afli | 24 June 2022 | 18th of April 2022 | N/A |
-| [ParlaCLARIN III Workshop on Creating, Enriching and Using Parliamentary Corpora @ LREC 2022](https://www.clarin.eu/ParlaCLARIN-III) | Marseille | Darja Fišer, Franciska de Jong, Maria Eskevich & Jakob Lenardič | 20 June 2022 | 25 March 2022 | N/A |
-| [8th International Conference on Computational Social Science](https://boothuchicagocaai.wixsite.com/website-2) | Chicago, IL | Harper Center of the Booth School of Business at the University of Chicago | July 19-22 | February 25 | N/A |
-| [3rd MWZ Text-as-Data Workshop](https://emea01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.gle%2FenzSyxGx5ksZApFG9&data=04%7C01%7C%7C8caff9b89f7742bedeec08d9cb08d6c5%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637764061079451902%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=d9V3SdaH9yeNEyUXflPZBn6585ZCnd3%2BfvS2bAbnXb0%3D&reserved=0) | online | ETH Zurich and Warwick CAGE | February 17th-18th | January 16th | N/A |
-| [2nd Workshop on Computational Linguistics for Political Text Analysis](https://gscl.org/en/arbeitskreise/cpss/cpss-2022) | Potsdam, Germany | Ines Rehbein, Christopher Klamm, Simone Ponzetto & Gabriella Lapesa | 12.09.2022 | 31.06.2022 | N/A |
-| [Politis and Computational Social Science](https://docs.google.com/forms/d/e/1FAIpQLSfq2Zw6kS1SVCDl7tvWyeZXf65vUtWZcZITixXO4f330VNn1g/viewform) | hybrid/ Cambridge, Massachusetts (US) | co-chaired by David Lazer and Sarah Shugars, with support from Stefan McCabe, Burak Ozturan, Alexi Quintana, Alyssa Smith, Ata Uslu, and Allison Wan | June 16-18, 2022 | April 29, 2022 | N/A |
+| [4th Annual COMPTEXT Conference 2022](https://www.comptextconference.org/4th-annual-poltext-conference-2021/) | Dublin  | James Cross  | May  | Fall | 
+| [LREC 2022 Workshop on Natural Language Processing for Political sciences (PoliticalNLP) @ LREC 2022](https://lrec2022.lrec-conf.org/en/workshops-and-tutorials/ws-tut-schedule/) | Marseille | Haithem Afli | 24 June 2022 | 18th of April 2022 |
+| [ParlaCLARIN III Workshop on Creating, Enriching and Using Parliamentary Corpora @ LREC 2022](https://www.clarin.eu/ParlaCLARIN-III) | Marseille | Darja Fišer, Franciska de Jong, Maria Eskevich & Jakob Lenardič | 20 June 2022 | 25 March 2022 |
+| [8th International Conference on Computational Social Science](https://boothuchicagocaai.wixsite.com/website-2) | Chicago, IL | Harper Center of the Booth School of Business at the University of Chicago | July 19-22 | February 25 |
+| [3rd MWZ Text-as-Data Workshop](https://emea01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.gle%2FenzSyxGx5ksZApFG9&data=04%7C01%7C%7C8caff9b89f7742bedeec08d9cb08d6c5%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637764061079451902%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=d9V3SdaH9yeNEyUXflPZBn6585ZCnd3%2BfvS2bAbnXb0%3D&reserved=0) | online | ETH Zurich and Warwick CAGE | February 17th-18th | January 16th |
+| [2nd Workshop on Computational Linguistics for Political Text Analysis](https://gscl.org/en/arbeitskreise/cpss/cpss-2022) | Potsdam, Germany | Ines Rehbein, Christopher Klamm, Simone Ponzetto & Gabriella Lapesa | 12.09.2022 | 31.06.2022 |
+| [Politis and Computational Social Science](https://docs.google.com/forms/d/e/1FAIpQLSfq2Zw6kS1SVCDl7tvWyeZXf65vUtWZcZITixXO4f330VNn1g/viewform) | hybrid/ Cambridge, Massachusetts (US) | co-chaired by David Lazer and Sarah Shugars, with support from Stefan McCabe, Burak Ozturan, Alexi Quintana, Alyssa Smith, Ata Uslu, and Allison Wan | June 16-18, 2022 | April 29, 2022 |
 
 ## **2022 Summer/ Winter Schools and Tutorials**
 | Name and Link  | Location  | Organizer  | Dates  | Deadline | Fee | 
 |---|---|---|---|---|---|
-| [2nd Virtual GESIS Spring Seminar on "Simulation Techniques in the Social Sciences"](https://www.gesis.org/en/gesis-training/what-we-offer/spring-seminar-cutting-edge-methods) | Online | GESIS | March 7-25 | N/A | 500 EUR for enrolled students per one-week course |
-| [BIGSSS-CSS Summer School on Social Cohesion](https://bigsss-css.jacobs-university.de) | Groningen | University of Groningen | July 4-15 | March 27, 2022 | N/A |
-| [Computational Methods Workshops 2022](https://www.cssmethods.uzh.ch/en.html) | Online/ Zurich  | Computational Methods Working Group | tbd  | tbd | N/A  |
+| [2nd Virtual GESIS Spring Seminar on "Simulation Techniques in the Social Sciences"](https://www.gesis.org/en/gesis-training/what-we-offer/spring-seminar-cutting-edge-methods) | Online | GESIS | March 7-25 | N/A |
+| [BIGSSS-CSS Summer School on Social Cohesion](https://bigsss-css.jacobs-university.de) | Groningen | University of Groningen | July 4-15 | March 27, 2022 |
+| [Computational Methods Workshops 2022](https://www.cssmethods.uzh.ch/en.html) | Online/ Zurich  | Computational Methods Working Group | tbd  | tbd |
 
 ## **2022 Speakers Series and Reading Groups**
 | Name and Link  | Location  | Organizer  | Dates  |
