@@ -25,7 +25,7 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 ## **2022 Speakers Series and Reading Groups**
 | Name and Link  | Location  | Organizer  | Dates  |
 |---|---|---|---|
-| [Text-as-data Reading Group w/ invited speakers](https://sites.google.com/view/polsci-ml-initiative) | online | Nicolai Berk, Christopher Klamm and Clint Claessen | 12.04.-19.07.2022, Tuesday, 5-6pm | 
+| [3rd Text-as-data Reading Group w/ invited speakers](https://sites.google.com/view/polsci-ml-initiative) | online | Nicolai Berk, Christopher Klamm and Clint Claessen | 12.04.-19.07.2022, Tuesday, 5-6pm | 
 
 ## Past events
 ## **2021 Method Workshops**
