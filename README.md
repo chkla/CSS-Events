@@ -31,7 +31,7 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 | Name and Link  | Location  | Organizer  | Dates  | Deadline | Fee | 
 |---|---|---|---|---|---|
 | [2nd Virtual GESIS Spring Seminar on "Simulation Techniques in the Social Sciences"](https://www.gesis.org/en/gesis-training/what-we-offer/spring-seminar-cutting-edge-methods) | Online | GESIS | March 7-25 | N/A | 500 EUR for enrolled students per one-week course |
-| [BIGSSS-CSS Summer School on Social Cohesion](https://bigsss-css.jacobs-university.de) | Groningen | University of Groningen | July 4-15 | N/A | N/A |
+| [BIGSSS-CSS Summer School on Social Cohesion](https://bigsss-css.jacobs-university.de) | Groningen | University of Groningen | July 4-15 | March 27, 2022 | N/A |
 | ...  | ...  | ...  | ...  | ...  | ...  |
 
 ## **2022 Conferences**
