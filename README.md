@@ -6,7 +6,7 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 
 ## **2022 Conferences and Workshops**
 | Name and Link  | Location  | Organizer | Dates | Deadline |
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 | [4th Annual COMPTEXT Conference 2022](https://www.comptextconference.org/4th-annual-poltext-conference-2021/) | Dublin  | James Cross  | May  | Fall | 
 | [LREC 2022 Workshop on Natural Language Processing for Political sciences (PoliticalNLP) @ LREC 2022](https://lrec2022.lrec-conf.org/en/workshops-and-tutorials/ws-tut-schedule/) | Marseille | Haithem Afli | 24 June 2022 | 18th of April 2022 |
 | [ParlaCLARIN III Workshop on Creating, Enriching and Using Parliamentary Corpora @ LREC 2022](https://www.clarin.eu/ParlaCLARIN-III) | Marseille | Darja Fišer, Franciska de Jong, Maria Eskevich & Jakob Lenardič | 20 June 2022 | 25 March 2022 |
@@ -17,7 +17,7 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 
 ## **2022 Summer/ Winter Schools and Tutorials**
 | Name and Link  | Location  | Organizer  | Dates  | Deadline | Fee | 
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 | [2nd Virtual GESIS Spring Seminar on "Simulation Techniques in the Social Sciences"](https://www.gesis.org/en/gesis-training/what-we-offer/spring-seminar-cutting-edge-methods) | Online | GESIS | March 7-25 | N/A |
 | [BIGSSS-CSS Summer School on Social Cohesion](https://bigsss-css.jacobs-university.de) | Groningen | University of Groningen | July 4-15 | March 27, 2022 |
 | [Computational Methods Workshops 2022](https://www.cssmethods.uzh.ch/en.html) | Online/ Zurich  | Computational Methods Working Group | tbd  | tbd |
