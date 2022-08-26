@@ -14,6 +14,7 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 | [3rd MWZ Text-as-Data Workshop](https://emea01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.gle%2FenzSyxGx5ksZApFG9&data=04%7C01%7C%7C8caff9b89f7742bedeec08d9cb08d6c5%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637764061079451902%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=d9V3SdaH9yeNEyUXflPZBn6585ZCnd3%2BfvS2bAbnXb0%3D&reserved=0) | online | ETH Zurich and Warwick CAGE | February 17th-18th | January 16th |
 | [2nd Workshop on Computational Linguistics for Political Text Analysis](https://gscl.org/en/arbeitskreise/cpss/cpss-2022) | Potsdam, Germany | Ines Rehbein, Christopher Klamm, Simone Ponzetto & Gabriella Lapesa | 12.09.2022 | 31.06.2022 |
 | [Politis and Computational Social Science](https://docs.google.com/forms/d/e/1FAIpQLSfq2Zw6kS1SVCDl7tvWyeZXf65vUtWZcZITixXO4f330VNn1g/viewform) | hybrid/ Cambridge, Massachusetts (US) | co-chaired by David Lazer and Sarah Shugars, with support from Stefan McCabe, Burak Ozturan, Alexi Quintana, Alyssa Smith, Ata Uslu, and Allison Wan | June 16-18, 2022 | April 29, 2022 |
+| [21th Annual Conference on New Directions in Analyzing Text as Data](https://tada2021.org) | hybrid | Cornell Tech, Roosevelt Island, New York City |  October 6-7, 2022 | July 18, 2022 | N/A |
 
 ## **2022 Summer/ Winter Schools and Tutorials**
 | Name and Link  | Location  | Organizer  | Dates  | Deadline |
@@ -26,6 +27,7 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 | Name and Link  | Location  | Organizer  | Dates  |
 |---|---|---|---|
 | [3rd Text-as-data Reading Group w/ invited speakers](https://sites.google.com/view/polsci-ml-initiative) | online | Nicolai Berk, Christopher Klamm and Clint Claessen | 12.04.-19.07.2022, Tuesday, 5-6pm | 
+| [4th Text-as-data Reading Group w/ invited speakers](https://sites.google.com/view/polsci-ml-initiative) | online | Nicolai Berk et al. | tbd, Tuesday, 5-6pm | 
 
 ## Past events
 ## **2021 Method Workshops**
