@@ -59,3 +59,4 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 ## **Additional Ressources**
 * "Computational Sociolinguistics" (David Jurgens): https://docs.google.com/document/u/0/d/1Ouyqz-emtOI-ohwTOdOZpcjcEFtPPilhJDso8sjgByU/mobilebasic
 *  "APIs for social scientists: A collaborative review" (Paul C. Bauer, Jan Behnert, Lion Behrens, Chung-hong Chan, Lukas Isermann, Philipp Kadel, Melike N. Kaplan, Jana Klein, Barbara K. Kreis, Dean Lajic, Camille Landesvatter, Madleen Meier-Barthold, Ondrej Pekacek, Pirmin Stöckle, Malte Söhren): https://bookdown.org/paul/apis_for_social_scientists/
+*  Grimmer/ Roberts/ Stewart (2022): [Text as Data: A New Framework for Machine Learning and the Social Sciences](https://press.princeton.edu/books/paperback/9780691207551/text-as-data). Princeton University Press.
