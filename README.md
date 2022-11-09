@@ -7,8 +7,7 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 ## **2022 Conferences and Workshops**
 | Name and Link  | Location  | Organizer | Dates | Deadline |
 |---|---|---|---|---|
-
-| [4th Monash-Warwick-Zurich Text-as-Data Workshop](https://www.monash.edu/__data/assets/pdf_file/0014/3005150/_Schedule_-4th-Monash-Warwick-Zurich-Text-as-Data-Workshop-Schedule.pdf) | online | Elliott Ash (ETH Zurich) and Sascha O. Becker (Monash U & U Warwick) |  Sept 1st and 2nd 2022 | N/A | |
+| [4th Monash-Warwick-Zurich Text-as-Data Workshop](https://www.monash.edu/__data/assets/pdf_file/0014/3005150/_Schedule_-4th-Monash-Warwick-Zurich-Text-as-Data-Workshop-Schedule.pdf) | online | Elliott Ash (ETH Zurich) and Sascha O. Becker (Monash U & U Warwick) |  Sept 1st and 2nd 2022 | N/A |
 | [4th Annual COMPTEXT Conference 2022](https://www.comptextconference.org/4th-annual-poltext-conference-2021/) | Dublin  | James Cross  | May  | Fall | 
 | [LREC 2022 Workshop on Natural Language Processing for Political sciences (PoliticalNLP) @ LREC 2022](https://lrec2022.lrec-conf.org/en/workshops-and-tutorials/ws-tut-schedule/) | Marseille | Haithem Afli | 24 June 2022 | 18th of April 2022 |
 | [ParlaCLARIN III Workshop on Creating, Enriching and Using Parliamentary Corpora @ LREC 2022](https://www.clarin.eu/ParlaCLARIN-III) | Marseille | Darja Fišer, Franciska de Jong, Maria Eskevich & Jakob Lenardič | 20 June 2022 | 25 March 2022 |
