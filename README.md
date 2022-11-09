@@ -29,6 +29,7 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 |---|---|---|---|
 | [3rd Text-as-data Reading Group w/ invited speakers](https://sites.google.com/view/polsci-ml-initiative) | online | Nicolai Berk, Christopher Klamm and Clint Claessen | 12.04.-19.07.2022, Tuesday, 5-6pm | 
 | [4th Text-as-data Reading Group w/ invited speakers](https://sites.google.com/view/polsci-ml-initiative) | online | Nicolai Berk et al. | tbd, Tuesday, 5-6pm | 
+| [MZES Methods Bites](https://www.mzes.uni-mannheim.de/socialsciencedatalab/page/events/) | hybrid | MZES Uni Mannheim | 06/2022-12/2022 winter term, Wednesday, 13:45-15:15 |  
 
 ## Past events
 ## **2021 Method Workshops**
