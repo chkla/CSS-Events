@@ -4,6 +4,11 @@ Computational Social Science is a fast growing field 🚀 that brings multiple d
 
 But it needs the help of the CSS community: Please send me a message (📧 [mail](mailto:christopher.klamm@hotmail.de) or 🐥 [twitter](https://twitter.com/chklamm)) or open pull requests ⬆️ for any summer and winter schools you come across! Thank you very much for your support ❤️
 
+## **2023 Conferences and Workshops**
+| Name and Link  | Location  | Organizer | Dates | Deadline |
+|---|---|---|---|---|
+| Monash-Warwick-Zurich Text-As-Data Workshop | Online | Monash University, the University of Warwick, and ETH Zurich's Center for Law & Economics | April 3 and 4, 2023 |  January 25, 2023 AoE |
+
 ## **2022 Conferences and Workshops**
 | Name and Link  | Location  | Organizer | Dates | Deadline |
 |---|---|---|---|---|
