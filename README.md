@@ -8,6 +8,7 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 | Name and Link  | Location  | Organizer | Dates | Deadline |
 |---|---|---|---|---|
 | Monash-Warwick-Zurich Text-As-Data Workshop | Online | Monash University, the University of Warwick, and ETH Zurich's Center for Law & Economics | April 3 and 4, 2023 |  January 25, 2023 AoE |
+| Speaker Series on text-as-data | Online | Nicolai Berk, Christopher Klamm, Verena Kunz, Clint Claessen | March-June 2023 | N/A |
 | Computational Linguistics for Political and Social Sciences (CPSS 2023) | Ingolstadt, Germany / Hybrid | Gabriella Lapesa, Christopher Klamm, Theresa Gessler, Valentin Gold and Simone Ponzetto | September 22, 2023 | June 15, 2023 | 
 
 ## **2022 Conferences and Workshops**
