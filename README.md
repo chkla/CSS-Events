@@ -7,15 +7,15 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 ## **2023 Conferences and Workshops**
 | Name and Link  | Location  | Organizer | Dates | Deadline |
 |---|---|---|---|---|
-| Monash-Warwick-Zurich Text-As-Data Workshop | Online | Monash University, the University of Warwick, and ETH Zurich's Center for Law & Economics | April 3 and 4, 2023 |  January 25, 2023 AoE |
+| [Monash-Warwick-Zurich Text-As-Data Workshop](https://lawecon.ethz.ch/conferences-workshops/text-as-data-workshop.html) | Online | Monash University, the University of Warwick, and ETH Zurich's Center for Law & Economics | April 3 and 4, 2023 |  January 25, 2023 AoE |
 | [Speaker Series on text-as-data](tada.cool) | Online | Nicolai Berk, Christopher Klamm, Verena Kunz, Clint Claessen | March-June 2023 | N/A |
 | [Computational Linguistics for Political and Social Sciences (CPSS 2023)](https://www.thi.de/konvens-2023/) | Ingolstadt, Germany / Hybrid | Gabriella Lapesa, Christopher Klamm, Theresa Gessler, Valentin Gold and Simone Ponzetto | September 22, 2023 | June 15, 2023 | 
 
 ## **2023 Summer/ Winter Schools**
 | Name and Link  | Location  | Organizer | Dates | Deadline |
 |---|---|---|---|---|
-| Summer Institutes in Computational Social Science | world | N/A | June- August 2023 | March 2023 |
-| Summer School for Women* in Political Methodology | UBasel | Theresa Gessler, Sophia Hunger, Denise Traber and Jana Boukemia | 16-22 July 2023 | March 27 |
+| [Summer Institutes in Computational Social Science](https://sicss.io) | world | N/A | June- August 2023 | March 2023 |
+| [Summer School for Women* in Political Methodology](http://summerschoolwpm.org) | UBasel | Theresa Gessler, Sophia Hunger, Denise Traber and Jana Boukemia | 16-22 July 2023 | March 27 |
 
 ## **2022 Conferences and Workshops**
 | Name and Link  | Location  | Organizer | Dates | Deadline |
