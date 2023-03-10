@@ -14,7 +14,8 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 ## **2023 Summer/ Winter Schools**
 | Name and Link  | Location  | Organizer | Dates | Deadline |
 |---|---|---|---|---|
-Summer Institutes in Computational Social Science | world | N/A | June- August 2023 | March 2023 |
+| Summer Institutes in Computational Social Science | world | N/A | June- August 2023 | March 2023 |
+| Summer School for Women* in Political Methodology | UBasel | Theresa Gessler, Sophia Hunger, Denise Traber and Jana Boukemia | 16-22 July 2023 | March 27 |
 
 ## **2022 Conferences and Workshops**
 | Name and Link  | Location  | Organizer | Dates | Deadline |
