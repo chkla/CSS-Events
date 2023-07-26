@@ -11,6 +11,8 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 | [Speaker Series on text-as-data](tada.cool) | Online | Nicolai Berk, Christopher Klamm, Verena Kunz, Clint Claessen | March-June 2023 | N/A |
 | [Computational Linguistics for Political and Social Sciences (CPSS 2023)](https://www.thi.de/konvens-2023/) | Ingolstadt, Germany / Hybrid | Gabriella Lapesa, Christopher Klamm, Theresa Gessler, Valentin Gold and Simone Ponzetto | September 22, 2023 | June 15, 2023 | 
 |[TADA 2023: New Directions in Analyzing Text as Data](https://tada2023.org) | University of Massachusetts Amherst | O’Connor et al. | November 9-10, 2023 | August 4 |
+| [Monash-Warwick-Zurich Text-As-Data Workshop](https://lawecon.ethz.ch/conferences-workshops/text-as-data-workshop.html) | Online | Monash University, the University of Warwick, and ETH Zurich's Center for Law & Economics | September 18 - 19, 2023 |  AoE August 6 |
+
 
 ## **2023 Summer/ Winter Schools**
 | Name and Link  | Location  | Organizer | Dates | Deadline |
