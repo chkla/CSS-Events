@@ -12,6 +12,7 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 | [Computational Linguistics for Political and Social Sciences (CPSS 2023)](https://www.thi.de/konvens-2023/) | Ingolstadt, Germany / Hybrid | Gabriella Lapesa, Christopher Klamm, Theresa Gessler, Valentin Gold and Simone Ponzetto | September 22, 2023 | June 15, 2023 | 
 |[TADA 2023: New Directions in Analyzing Text as Data](https://tada2023.org) | University of Massachusetts Amherst | O’Connor et al. | November 9-10, 2023 | August 4 |
 | [Monash-Warwick-Zurich Text-As-Data Workshop](https://lawecon.ethz.ch/conferences-workshops/text-as-data-workshop.html) | Online | Monash University, the University of Warwick, and ETH Zurich's Center for Law & Economics | September 18 - 19, 2023 |  AoE August 6 |
+| [3-Day Workshop on Language Models for Social Sciences](https://www.llmsforsocialsciene.dev/about/) | University of Oxford | maksim.zubok@nuffield.ox.ac.uk | 26-28 September |
 
 
 ## **2023 Summer/ Winter Schools**
