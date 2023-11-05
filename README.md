@@ -4,6 +4,11 @@ Computational Social Science is a fast growing field 🚀 that brings multiple d
 
 But it needs the help of the CSS community: Please send me a message (📧 [mail](mailto:christopher.klamm@hotmail.de) or 🐥 [twitter](https://twitter.com/chklamm)) or open pull requests ⬆️ for any summer and winter schools you come across! Thank you very much for your support ❤️
 
+## **2024 Conferences and Workshops**
+| Name and Link  | Location  | Organizer | Dates | Deadline |
+|---|---|---|---|---|
+| COMPTEXT | Amsterdam | Mariken A.C.G. van der Velden, Roan Buma, Alona O. Dolinsky, Johannes Gruber, Kasper Welbers, Miklós Sebők | 2-4 May 2024 | Wednesday 20 December 2023 |
+
 ## **2023 Conferences and Workshops**
 | Name and Link  | Location  | Organizer | Dates | Deadline |
 |---|---|---|---|---|
