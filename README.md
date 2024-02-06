@@ -10,6 +10,14 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 | COMPTEXT | Amsterdam | Mariken A.C.G. van der Velden, Roan Buma, Alona O. Dolinsky, Johannes Gruber, Kasper Welbers, Miklós Sebők | 2-4 May 2024 | Wednesday 20 December 2023 |
 | [Monash-Warwick-Zurich Text-As-Data Workshop](https://lawecon.ethz.ch/conferences-workshops/text-as-data-workshop.html) | Online | Monash University, the University of Warwick, and ETH Zurich's Center for Law & Economics | tbd 2024 |  tbd |
 | [Speaker Series on text-as-data](tada.cool) | Online | Nicolai Berk, Christopher Klamm, Verena Kunz, Clint Claessen | Oct-Feb 2023/2024 | N/A |
+| [ 6th workshop on NLP+CSS at NAACL 2024]([tada.cool](https://sites.google.com/site/nlpandcss/)) | Mexico | Dallas Card, Anjalie Field, Dirk Hovy and Katie Keith | June 21-22, 2024 | March 24th, 2024 |
+
+## **2023 Summer/ Winter Schools**
+| Name and Link  | Location  | Organizer | Dates | Deadline | Fee |
+| [Oxford Spring School PolSci (with Text Analysis, etc.)](https://www.politics.ox.ac.uk/spring-school) | Oxford/Online | N/A | N/A | April 2024 | ca. 1000€ |
+| [Radbound summer school (with Text Analysis, etc.)](https://www.ru.nl/en/education/more-education-and-training/summer-courses/courses-by-discipline/social-research-methods) | Radbound | N/A | N/A | April 2024 | €699/€1049
+| [Computational Social Science: Advances, Challenges and Opportunities](https://css.lakecomoschool.org) | Villa del Grumello, Como, Italy | Barabasi et al. | May 13-17, 2024 | February 25th, 2024 | 600€ |
+
 
 ## **2023 Conferences and Workshops**
 | Name and Link  | Location  | Organizer | Dates | Deadline |
