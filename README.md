@@ -15,8 +15,8 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 ## **2024 Summer/ Winter Schools**
 | Name and Link  | Location  | Organizer | Dates | Deadline | Fee |
 |---|---|---|---|---|---|
-| [Oxford Spring School PolSci (with Text Analysis, etc.)](https://www.politics.ox.ac.uk/spring-school) | Oxford/Online | N/A | N/A | April 2024 | ca. 1000€ |
-| [Radbound summer school (with Text Analysis, etc.)](https://www.ru.nl/en/education/more-education-and-training/summer-courses/courses-by-discipline/social-research-methods) | Radbound | N/A | N/A | April 2024 | €699/€1049 |
+| [Oxford Spring School PolSci (with Text Analysis, etc.)](https://www.politics.ox.ac.uk/spring-school) | Oxford/Online | University of Oxford | Monday 8 to Friday 12 April 2024 | Sunday, 10 March 2024 | ca. 1000€ |
+| [Radbound summer school (with Text Analysis, etc.)](https://www.ru.nl/en/education/more-education-and-training/summer-courses/courses-by-discipline/social-research-methods) | Radbound | N/A | N/A | April 1st | €699/€1049 |
 | [Computational Social Science: Advances, Challenges and Opportunities](https://css.lakecomoschool.org) | Villa del Grumello, Como, Italy | Barabasi et al. | May 13-17, 2024 | February 25th, 2024 | 600€ |
 | [EADM Summer School](https://github.com/EADMSummerSchool2024/EADMSummerSchool2024.github.io) | N/A | N/A | N/A | N/A | N/A |
 | [IPSA-NUS  Methods School (with Quantitative Text Analysis etc.)](https://fass.nus.edu.sg/methods-school/courses/) | University of Singapore | Henry et al. | July 1-12, 2024 | March 31, 2024 | S$800-S$1,800 |
