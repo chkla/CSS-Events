@@ -20,6 +20,7 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 | [Computational Social Science: Advances, Challenges and Opportunities](https://css.lakecomoschool.org) | Villa del Grumello, Como, Italy | Barabasi et al. | May 13-17, 2024 | February 25th, 2024 | 600€ |
 | [EADM Summer School](https://github.com/EADMSummerSchool2024/EADMSummerSchool2024.github.io) | N/A | N/A | N/A | N/A | N/A |
 | [IPSA-NUS  Methods School (with Quantitative Text Analysis etc.)](https://fass.nus.edu.sg/methods-school/courses/) | University of Singapore | Henry et al. | July 1-12, 2024 | March 31, 2024 | S$800-S$1,800 |
+| [28th Summer School in Social Science Methods](https://www.usi.ch/en/education/lifelong-learning/summer-winter-school/ssm/qualitative-comparative-analysis-qca) | Lugano | MethodsNET | 8-23 August 2024 | 14th of July | 700 Swiss Francs (students, in-person) |
 
 
 ## **2023 Conferences and Workshops**
