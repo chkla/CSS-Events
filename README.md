@@ -21,6 +21,7 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 | [EADM Summer School](https://github.com/EADMSummerSchool2024/EADMSummerSchool2024.github.io) | N/A | N/A | N/A | N/A | N/A |
 | [IPSA-NUS  Methods School (with Quantitative Text Analysis etc.)](https://fass.nus.edu.sg/methods-school/courses/) | University of Singapore | Henry et al. | July 1-12, 2024 | March 31, 2024 | S$800-S$1,800 |
 | [28th Summer School in Social Science Methods](https://www.usi.ch/en/education/lifelong-learning/summer-winter-school/ssm/qualitative-comparative-analysis-qca) | Lugano | MethodsNET | 8-23 August 2024 | 14th of July | 700 Swiss Francs (students, in-person) |
+| [Wealth Data Science Summer/Winter School 2024](https://wedsss.janlo.de/wealth-data-science-school-2024/projects/)| Bremen | Hilke Brockmann, Jan Lorenz, Murray Leibrandt, Vimal Ranchhod | 1-12 July | March 25 | € 1080 |
 
 
 ## **2023 Conferences and Workshops**
