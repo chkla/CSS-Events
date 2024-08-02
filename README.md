@@ -8,7 +8,7 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 | Name and Link  | Location  | Organizer | Dates | Deadline |
 |---|---|---|---|---|
 | COMPTEXT | Amsterdam | Mariken A.C.G. van der Velden, Roan Buma, Alona O. Dolinsky, Johannes Gruber, Kasper Welbers, Miklós Sebők | 2-4 May 2024 | Wednesday 20 December 2023 |
-| [Monash-Warwick-Zurich Text-As-Data Workshop](https://lawecon.ethz.ch/conferences-workshops/text-as-data-workshop.html) | Online | Monash University, the University of Warwick, and ETH Zurich's Center for Law & Economics | tbd 2024 |  tbd |
+| [Monash-Warwick-Zurich Text-As-Data Workshop](https://lawecon.ethz.ch/conferences-workshops/text-as-data-workshop.html) | Online | Monash University, the University of Warwick, and ETH Zurich's Center for Law & Economics | tbd 2024 |  Aug 8 |
 | [Speaker Series on text-as-data](tada.cool) | Online | Nicolai Berk, Christopher Klamm, Verena Kunz, Clint Claessen | Oct-Feb 2023/2024 | N/A |
 | [ 6th workshop on NLP+CSS at NAACL 2024]([tada.cool](https://sites.google.com/site/nlpandcss/)) | Mexico | Dallas Card, Anjalie Field, Dirk Hovy and Katie Keith | June 21-22, 2024 | March 24th, 2024 |
 
