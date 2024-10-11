@@ -25,6 +25,7 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 | [Speaker Series on text-as-data](tada.cool) | Online | Nicolai Berk, Christopher Klamm, Verena Kunz, Clint Claessen | Oct-Feb 2023/2024 | N/A |
 | [ 6th workshop on NLP+CSS at NAACL 2024]([tada.cool](https://sites.google.com/site/nlpandcss/)) | Mexico | Dallas Card, Anjalie Field, Dirk Hovy and Katie Keith | June 21-22, 2024 | March 24th, 2024 |
 | [Speaker Series winter term on text-as-data](tada.cool) | Online | Nicolai Berk, Christopher Klamm, Verena Kunz, Clint Claessen | Oct-Dec 2024 | N/A |
+| [Computational Linguistics for Political and Social Sciences (CPSS 2024)](https://sites.google.com/view/cpss2023konvens/home-page) | Vienna | Gabriella Lapesa, Christopher Klamm, Indira Sen, Ines Rehbein and Simone Ponzetto | September | June | 
 
 ## **2024 Summer/ Winter Schools**
 | Name and Link  | Location  | Organizer | Dates | Deadline | Fee |
