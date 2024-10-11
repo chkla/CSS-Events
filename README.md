@@ -4,10 +4,18 @@ Computational Social Science is a fast growing field 🚀 that brings multiple d
 
 But it needs the help of the CSS community: Please send me a message (📧 [mail](mailto:christopher.klamm@hotmail.de) or 🐥 [twitter](https://twitter.com/chklamm)) or open pull requests ⬆️ for any summer and winter schools you come across! Thank you very much for your support ❤️
 
-## **2024 Summer/ Winter Schools**
+## **2025 Summer/ Winter Schools**
 | Name and Link  | Location  | Organizer | Dates | Deadline | Fee |
 |---|---|---|---|---|---|
-| [IPSA-USP SUMMER SCHOOL](https://summerschool.fflch.usp.br) | University of São Paulo | Political Science Department (University of São Paulo) | January 13th to 31st, 2025 | November 8th, 2024 | N/A | 
+| [IPSA-USP SUMMER SCHOOL](https://summerschool.fflch.usp.br) (e.g. Causal Inference)| University of São Paulo | Political Science Department (University of São Paulo) | January 13th to 31st, 2025 | November 8th, 2024 | N/A | 
+| [Oxford Spring School in Advanced Social Methods]([https://summerschool.fflch.usp.br](https://www.politics.ox.ac.uk/spring-school)) (w/ text analysis) | Oxford | DPIR | tbd | tbd | tbd | 
+| [Oxford LLMs Social Science](https://llmsforsocialscience.net) | Oxford | tbd | tbd | tbd | tbd |
+
+## **2025 Conferences and Workshops**
+| Name and Link  | Location  | Organizer | Dates | Deadline |
+|---|---|---|---|---|
+| COMPTEXT | tbd | tbd | tbd | tbd |
+| PolMeth | London | LSE | 7&8 April | November 30th 2024 |
 
 ## **2024 Conferences and Workshops**
 | Name and Link  | Location  | Organizer | Dates | Deadline |
@@ -16,6 +24,7 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 | [Monash-Warwick-Zurich Text-As-Data Workshop](https://lawecon.ethz.ch/conferences-workshops/text-as-data-workshop.html) | Online | Monash University, the University of Warwick, and ETH Zurich's Center for Law & Economics | tbd 2024 |  Aug 8 |
 | [Speaker Series on text-as-data](tada.cool) | Online | Nicolai Berk, Christopher Klamm, Verena Kunz, Clint Claessen | Oct-Feb 2023/2024 | N/A |
 | [ 6th workshop on NLP+CSS at NAACL 2024]([tada.cool](https://sites.google.com/site/nlpandcss/)) | Mexico | Dallas Card, Anjalie Field, Dirk Hovy and Katie Keith | June 21-22, 2024 | March 24th, 2024 |
+| [Speaker Series winter term on text-as-data](tada.cool) | Online | Nicolai Berk, Christopher Klamm, Verena Kunz, Clint Claessen | Oct-Dec 2024 | N/A |
 
 ## **2024 Summer/ Winter Schools**
 | Name and Link  | Location  | Organizer | Dates | Deadline | Fee |
