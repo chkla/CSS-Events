@@ -4,6 +4,11 @@ Computational Social Science is a fast growing field 🚀 that brings multiple d
 
 But it needs the help of the CSS community: Please send me a message (📧 [mail](mailto:christopher.klamm@hotmail.de) or 🐥 [twitter](https://twitter.com/chklamm)) or open pull requests ⬆️ for any summer and winter schools you come across! Thank you very much for your support ❤️
 
+## **2024 Summer/ Winter Schools**
+| Name and Link  | Location  | Organizer | Dates | Deadline | Fee |
+|---|---|---|---|---|---|
+| [IPSA-USP SUMMER SCHOOL](https://summerschool.fflch.usp.br) | University of São Paulo | Political Science Department (University of São Paulo) | January 13th to 31st, 2025 | November 8th, 2024 | N/A | 
+
 ## **2024 Conferences and Workshops**
 | Name and Link  | Location  | Organizer | Dates | Deadline |
 |---|---|---|---|---|
