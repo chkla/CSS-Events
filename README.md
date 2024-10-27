@@ -4,18 +4,20 @@ Computational Social Science is a fast growing field 🚀 that brings multiple d
 
 But it needs the help of the CSS community: Please send me a message (📧 [mail](mailto:christopher.klamm@hotmail.de) or 🐥 [twitter](https://twitter.com/chklamm)) or open pull requests ⬆️ for any summer and winter schools you come across! Thank you very much for your support ❤️
 
+## **2025 Conferences and Workshops**
+| Name and Link  | Location  | Organizer | Dates | Deadline |
+|---|---|---|---|---|
+| COMPTEXT | tbd | tbd | tbd | tbd |
+| PolMeth | London | LSE | 7&8 April | November 30th 2024 |
+| ECPR "Text-as-Data Analysis in Political Science: Unlocking Political Insights with New Research Tools" | Charles University, Prague | Steffen Eckhard & Michal Parízek | End of May | November 21st |
+| EPSA 2025 Pol Methods | Carlos III University, Madrid | EPSA | 26 - 28 June 2025 | December 12th |
+
 ## **2025 Summer/ Winter Schools**
 | Name and Link  | Location  | Organizer | Dates | Deadline | Fee |
 |---|---|---|---|---|---|
 | [IPSA-USP SUMMER SCHOOL](https://summerschool.fflch.usp.br) (e.g. Causal Inference)| University of São Paulo | Political Science Department (University of São Paulo) | January 13th to 31st, 2025 | November 8th, 2024 | N/A | 
 | [Oxford Spring School in Advanced Social Methods]([https://summerschool.fflch.usp.br](https://www.politics.ox.ac.uk/spring-school)) (w/ text analysis) | Oxford | DPIR | tbd | tbd | tbd | 
 | [Oxford LLMs Social Science](https://llmsforsocialscience.net) | Oxford | tbd | tbd | tbd | tbd |
-
-## **2025 Conferences and Workshops**
-| Name and Link  | Location  | Organizer | Dates | Deadline |
-|---|---|---|---|---|
-| COMPTEXT | tbd | tbd | tbd | tbd |
-| PolMeth | London | LSE | 7&8 April | November 30th 2024 |
 
 ## **2024 Conferences and Workshops**
 | Name and Link  | Location  | Organizer | Dates | Deadline |
