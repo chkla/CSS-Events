@@ -22,6 +22,7 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 | [IPSA-USP SUMMER SCHOOL](https://summerschool.fflch.usp.br) (e.g. Causal Inference)| University of São Paulo | Political Science Department (University of São Paulo) | January 13th to 31st, 2025 | November 8th, 2024 | N/A | 
 | [Oxford Spring School in Advanced Social Methods]([https://summerschool.fflch.usp.br](https://www.politics.ox.ac.uk/spring-school)) (w/ text analysis) | Oxford | DPIR | tbd | tbd | tbd | 
 | [Oxford LLMs Social Science](https://llmsforsocialscience.net) | Oxford | tbd | tbd | tbd | tbd |
+| MethodsNET Summer School with CEU | Vienna | MethodsNet | June 30 - July 18 | first-come, first-served basis | Student ~700€ |
 
 ## **2024 Conferences and Workshops**
 | Name and Link  | Location  | Organizer | Dates | Deadline |
