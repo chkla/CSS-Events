@@ -12,6 +12,9 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 | PolMeth | London | LSE | 7&8 April | November 30th 2024 |
 | ECPR "Text-as-Data Analysis in Political Science: Unlocking Political Insights with New Research Tools" | Charles University, Prague | Steffen Eckhard & Michal Parízek | End of May | November 21st |
 | EPSA 2025 Pol Methods | Carlos III University, Madrid | EPSA | 26 - 28 June 2025 | December 12th |
+| CSS AI and Society | UMannheim | Bach et al. | May 15th and 16th 2025 |  first-come, first-served basis |
+| Computational Linguistics for Political and Social Sciences (CPSS 2025) | Hildesheim | Gabriella Lapesa, Christopher Klamm, Indira Sen, Ines Rehbein and Simone Ponzetto | 11 September | June | 
+| 1st Workshop on Validating Social Text-as-Data Methods (VaLiSTAD) | Copenhagen | Christopher Klamm, Gabriella Lapesa, Indira Sen, Ines Rehbein and Simone Ponzetto | 23 June | 5 May | 
 
 ## **2025 Summer/ Winter Schools**
 | Name and Link  | Location  | Organizer | Dates | Deadline | Fee |
