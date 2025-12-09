@@ -4,6 +4,22 @@ Computational Social Science is a fast growing field 🚀 that brings multiple d
 
 But it needs the help of the CSS community: Please send me a message (📧 [mail](mailto:christopher.klamm@hotmail.de) or 🐥 [twitter](https://twitter.com/chklamm)) or open pull requests ⬆️ for any summer and winter schools you come across! Thank you very much for your support ❤️
 
+## **2026 Conferences and Workshops**
+| Name and Link  | Location  | Organizer | Dates | Deadline |
+|---|---|---|---|---|
+| COMPTEXT | Birmingham | UBirmingham | tbd | tbd |
+| PolMeth | Dublin | UDublin | 14-15 May | Nov 14 |
+| ECPR | Innsbruck | Lisa Lechner & Markus | April 7–10  | Dec 11 |
+| EPSA 2026 Pol Methods | Belfast | EPSA | Jun 18-20 | Nov 7 |
+| Computational Linguistics for Political and Social Sciences (CPSS 2026) | Hamburg | Gabriella Lapesa, Christopher Klamm, Indira Sen, Ines Rehbein and Simone Ponzetto | tbd | tbd | 
+
+## **2026 Summer/ Winter Schools**
+| Name and Link  | Location  | Organizer | Dates | Deadline | Fee |
+|---|---|---|---|---|---|
+| [Oxford Spring School in Advanced Social Methods]([https://summerschool.fflch.usp.br](https://www.politics.ox.ac.uk/spring-school)) (w/ text analysis) | Oxford | DPIR | 23 March - 27 March | 23 Feb | 
+| [Oxford LLMs Social Science](https://llmsforsocialscience.net) | Oxford | tbd | tbd | tbd | tbd |
+| MethodsNET Summer School with CEU | Vienna | MethodsNet | Jun 29 - July 10 | first-come, first-served basis | Student ~700€ |
+
 ## **2025 Conferences and Workshops**
 | Name and Link  | Location  | Organizer | Dates | Deadline |
 |---|---|---|---|---|
