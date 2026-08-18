@@ -1,6 +1,8 @@
+
+
 # List of Summer/ Winter Schools, Workshops and Conferences in Computational Social Science
 
-Computational Social Science is a fast growing field 🚀 that brings multiple disciplines together. Summer and winter schools are a great place to find like-minded people, exchange ideas, learning new things from experts and have a great time together (and make new friends). This community-driven repository attempts to list all upcomming events so that everyone has the chance to attend.
+Computational Social Science is a fast growing field 🚀 that brings multiple disciplines together. Summer and winter schools are a great place to find like-minded people, exchange ideas, learning new things from experts and have a great time together (and make new friends). This community-driven repository attempts to list all upcoming events so that everyone has the chance to attend.
 
 But it needs the help of the CSS community: Please send me a message (📧 [mail](mailto:christopher.klamm@hotmail.de) or 🐥 [twitter](https://twitter.com/chklamm)) or open pull requests ⬆️ for any summer and winter schools you come across! Thank you very much for your support ❤️
 
@@ -87,7 +89,7 @@ But it needs the help of the CSS community: Please send me a message (📧 [mail
 | [4th Monash-Warwick-Zurich Text-as-Data Workshop](https://www.monash.edu/__data/assets/pdf_file/0014/3005150/_Schedule_-4th-Monash-Warwick-Zurich-Text-as-Data-Workshop-Schedule.pdf) | online | Elliott Ash (ETH Zurich) and Sascha O. Becker (Monash U & U Warwick) |  Sept 1st and 2nd 2022 | N/A |
 | [4th Annual COMPTEXT Conference 2022](https://www.comptextconference.org/4th-annual-poltext-conference-2021/) | Dublin  | James Cross  | May  | Fall | 
 | [LREC 2022 Workshop on Natural Language Processing for Political sciences (PoliticalNLP) @ LREC 2022](https://lrec2022.lrec-conf.org/en/workshops-and-tutorials/ws-tut-schedule/) | Marseille | Haithem Afli | 24 June 2022 | 18th of April 2022 |
-| [ParlaCLARIN III Workshop on Creating, Enriching and Using Parliamentary Corpora @ LREC 2022](https://www.clarin.eu/ParlaCLARIN-III) | Marseille | Darja Fišer, Franciska de Jong, Maria Eskevich & Jakob Lenardič | 20 June 2022 | 25 March 2022 |
+| [ParlaCLARIN III Workshop on Creating, Enriching and Using Parliamentary Corpora @ LREC 2022](https://www.clarin.eu/ParlaCLARIN-III) | Marseille | Darja Fišer, Franciska de Jong, Maria Eskevich & Jakob Lenardič | 20 June 2022 | 25 March 2022 |
 | [8th International Conference on Computational Social Science](https://boothuchicagocaai.wixsite.com/website-2) | Chicago, IL | Harper Center of the Booth School of Business at the University of Chicago | July 19-22 | February 25 |
 | [3rd MWZ Text-as-Data Workshop](https://emea01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.gle%2FenzSyxGx5ksZApFG9&data=04%7C01%7C%7C8caff9b89f7742bedeec08d9cb08d6c5%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637764061079451902%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=d9V3SdaH9yeNEyUXflPZBn6585ZCnd3%2BfvS2bAbnXb0%3D&reserved=0) | online | ETH Zurich and Warwick CAGE | February 17th-18th | January 16th |
 | [2nd Workshop on Computational Linguistics for Political Text Analysis](https://gscl.org/en/arbeitskreise/cpss/cpss-2022) | Potsdam, Germany | Ines Rehbein, Christopher Klamm, Simone Ponzetto & Gabriella Lapesa | 12.09.2022 | 31.06.2022 |
