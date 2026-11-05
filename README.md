@@ -2,7 +2,30 @@
 
 Computational Social Science is a fast growing field 🚀 that brings multiple disciplines together. Summer and winter schools are a great place to find like-minded people, exchange ideas, learning new things from experts and have a great time together (and make new friends). This community-driven repository attempts to list all upcomming events so that everyone has the chance to attend.
 
-But it needs the help of the CSS community: Please send me a message (📧 [mail](mailto:christopher.klamm@hotmail.de) or 🐥 [twitter](https://twitter.com/chklamm)) or open pull requests ⬆️ for any summer and winter schools you come across! Thank you very much for your support ❤️
+But it needs the help of the CSS community: Please send me a message (📧 [mail](mailto:klamm.christopher@gmail.com) or 🐥 [twitter](https://twitter.com/chklamm)) or open pull requests ⬆️ for any summer and winter schools you come across! Thank you very much for your support ❤️
+
+## **2027 Conferences, Workshops and Schools**
+
+| Type | Name and Link | Location | Organizer | Dates | Deadline | Fee | Note |
+|---|---|---|---|---|---|---|---|
+| Conference | [COMPTEXT 2027](https://www.comptextconference.org) | Prague | Charles University / COMPTEXT Association | May 27–29 | tbd | – | CfP forthcoming |
+| Conference | [ECPR Joint Sessions](https://ecpr.eu/Events/369) | tbd | ECPR | June 1–4 | tbd | **Dec 14, 2026** | Workshop calls usually close in Dec |
+| Conference | [EPSS 2027](https://epssnet.org/2027-copenhagen/) | Copenhagen | EPSS / Univ. of Copenhagen | Jun 24–26 (workshops Jun 23) | **Nov 13, 2026** | – | Successor to EPSA Belfast 2026; Political Methodology section |
+| Conference | [EPSA 2027](https://epsanet.org) | Vienna | EPSA / WU Vienna | Jul 8–9 | Jan 10, 2027 | – | – |
+| Conference | IC2S2 2027 | Milan | ISCSS | tbd | tbd | – | - |
+| Conference | [ICWSM 2027](https://www.icwsm.org/2027/) | Edinburgh | AAAI | late May (tbc) | Jan 15, 2027 (final round) | – | – |
+| Conference | [PolMeth Europe VI](https://polmeth.org/europe) | Berlin | Hertie School | tbd | tbd | – | 2026 deadline |
+| Workshop | CPSS 2027 | tbd | tbd | tbd | tbd | – | – |
+| Workshop | [CSS Workshop 2027](https://computational-social-science.org/workshops/2027.html) | tbd | tbd | tbd | tbd | tbd | German CSS community workshop series |
+| Winter School | [ECPR Methods School – Winter](https://events.ecpr.eu/content/1513) | Online | ECPR | Feb 15–26 | tbd | tbd | Computational, Digital & AI track |
+| Winter School | KOMEX | Konstanz / online | Univ. Konstanz (AWW) | Feb 18–26 | tbd | tbd | 9 in-person + 13 online courses |
+| Winter School | [ALPS](https://lig-alps.imag.fr) | Aussois | LIG Grenoble | Mar 28 – Apr 2 | closed (Oct 11, 2026) | 700€ student / 900€ academic | incl. accommodation and full board |
+| Spring School | [Oxford Spring School](https://www.politics.ox.ac.uk/spring-school) | Oxford / online | DPIR | Apr 5–9 | tbd (rolling; 2026: Feb 23) | tbd | New: free AI seminar series |
+| Summer School | [MethodsNET Summer School with CEU](https://methodsnet.org) | Vienna | MethodsNET / CEU | June–July (tbc) | tbd (Early Bird ~Feb) | tbd | – |
+| Summer School | [Oxford LLMs Summer School](https://llmsforsocialscience.net/summer-school/) | Oxford (Nuffield College) | Oxford LLMs | tbd (2026: Jul 13–17) | tbd | free | – |
+| Summer School | Essex Summer School | Colchester / online | Univ. of Essex | tbd (2026: June–Aug) | tbd | tbd | optional |
+| Summer School | GESIS Summer School | Cologne / online | GESIS | tbd (2026: July–Aug) | tbd | tbd | optional |
+| Summer School | ECPR Summer Methods School | tbd | ECPR | tbd | tbd | tbd | optional |
 
 ## **2026 Conferences and Workshops**
 | Name and Link  | Location  | Organizer | Dates | Deadline |
